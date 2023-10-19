@@ -1,4 +1,4 @@
-# Simple-POS-C-
+# Simple-POS-System
 A simple Point-of-sale program for a cellphone kiosk to practice C++ programming. Here are the constraints of this project.
 
 
